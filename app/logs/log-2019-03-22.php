@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-22 19:39:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:25 --> Unable to connect to the database
+ERROR - 2019-03-22 19:39:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:25 --> Severity: Warning --> ini_set(): A session is active. You cannot change the session module's ini settings at this time /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session_driver.php 205
+ERROR - 2019-03-22 19:39:25 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: /Applications/MAMP/tmp/php) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session.php 143
+ERROR - 2019-03-22 19:39:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:25 --> Unable to connect to the database
+ERROR - 2019-03-22 19:39:25 --> Query error: Access denied for user 'dbuser'@'localhost' (using password: YES) - Invalid query: SELECT *
+FROM `sma_settings`
+ERROR - 2019-03-22 19:39:25 --> Severity: error --> Exception: Call to a member function num_rows() on bool /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/app/models/Site.php 42
+ERROR - 2019-03-22 19:39:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:57 --> Unable to connect to the database
+ERROR - 2019-03-22 19:39:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:57 --> Severity: Warning --> ini_set(): A session is active. You cannot change the session module's ini settings at this time /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session_driver.php 205
+ERROR - 2019-03-22 19:39:57 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: /Applications/MAMP/tmp/php) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session.php 143
+ERROR - 2019-03-22 19:39:58 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:39:58 --> Unable to connect to the database
+ERROR - 2019-03-22 19:39:58 --> Query error: Access denied for user 'dbuser'@'localhost' (using password: YES) - Invalid query: SELECT *
+FROM `sma_settings`
+ERROR - 2019-03-22 19:39:58 --> Severity: error --> Exception: Call to a member function num_rows() on bool /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/app/models/Site.php 42
+ERROR - 2019-03-22 19:40:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:40:27 --> Unable to connect to the database
+ERROR - 2019-03-22 19:40:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:40:27 --> Severity: Warning --> ini_set(): A session is active. You cannot change the session module's ini settings at this time /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session_driver.php 205
+ERROR - 2019-03-22 19:40:27 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: /Applications/MAMP/tmp/php) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session.php 143
+ERROR - 2019-03-22 19:40:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 19:40:27 --> Unable to connect to the database
+ERROR - 2019-03-22 19:40:27 --> Query error: Access denied for user 'dbuser'@'localhost' (using password: YES) - Invalid query: SELECT *
+FROM `sma_settings`
+ERROR - 2019-03-22 19:40:27 --> Severity: error --> Exception: Call to a member function num_rows() on bool /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/app/models/Site.php 42
+ERROR - 2019-03-22 22:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 22:10:10 --> Unable to connect to the database
+ERROR - 2019-03-22 22:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 22:10:10 --> Severity: Warning --> ini_set(): A session is active. You cannot change the session module's ini settings at this time /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session_driver.php 205
+ERROR - 2019-03-22 22:10:10 --> Severity: Warning --> session_start(): Failed to initialize storage module: user (path: /Applications/MAMP/tmp/php) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/libraries/Session/Session.php 143
+ERROR - 2019-03-22 22:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'dbuser'@'localhost' (using password: YES) /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2019-03-22 22:10:10 --> Unable to connect to the database
+ERROR - 2019-03-22 22:10:10 --> Query error: Access denied for user 'dbuser'@'localhost' (using password: YES) - Invalid query: SELECT *
+FROM `sma_settings`
+ERROR - 2019-03-22 22:10:10 --> Severity: error --> Exception: Call to a member function num_rows() on bool /Users/gerardg/Dev/bznz/sma-all-modules/source-code-versions/Stock Manager Advance with All Modules v3.4.14/app/models/Site.php 42
